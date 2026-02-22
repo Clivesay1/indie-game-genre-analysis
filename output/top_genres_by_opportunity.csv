@@ -1,0 +1,16 @@
+genre,revenue_median,dev_cost_typical_K,success_rate_25k,failure_rate,opportunity_score,complexity_tier
+Farming Sim,4200,120,36,50,97.3,Med-High
+City Builder,3500,200,34,52,89.2,High
+Sandbox,3300,200,34,54,88.3,High
+Co-op,2700,450,34,55,80.7,Very High
+Management,2900,100,29,56,79.5,Med-High
+Story Rich,2500,80,28,57,76.8,Medium
+Building,2400,180,29,57,75.9,High
+Difficult,2000,70,25,61,70.9,Medium
+Deck Building,2200,45,24,60,69.6,Medium
+Auto Battler,1800,60,23,62,65.5,Medium
+Turn-Based Strategy,1800,70,22,64,65.3,Medium
+Anime,2100,35,23,60,63.7,Low-Med
+RPG,1400,250,24,63,61.8,High
+Open World,2100,1500,33,57,61.0,AAA
+Metroidvania,1600,70,21,65,60.6,Medium
