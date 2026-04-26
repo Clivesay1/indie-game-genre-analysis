@@ -17,3 +17,19 @@ Applied k-means clustering (k=5) to the genre dataset using revenue metrics and 
 3. **Saturated/Low margin**: Platformer, Endless Runner — oversupply has compressed margins
 4. **Niche premium**: Simulation, Strategy — lower volume but loyal audiences with high LTV
 5. **Emerging**: Auto-battler, Deck-builder — growing market, early mover advantage still available
+
+---
+
+### Update: April 26, 2026
+
+## Genre Opportunity Scoring — Methodology Notes
+
+The Opportunity Score combines market size (total revenue), competition density (# of titles), and growth trajectory (YoY revenue change). Genres with high revenue but low title count represent the best entry points for indie developers.
+
+### Scoring Formula
+Opportunity = (Revenue_Percentile * 0.4) + (Inverse_Competition_Percentile * 0.35) + (Growth_Percentile * 0.25)
+
+### Caveats
+- Revenue data aggregated from public SteamSpy estimates
+- Does not account for marketing budget differences
+- Seasonal genres (horror, holiday) may be undervalued by annual aggregation
