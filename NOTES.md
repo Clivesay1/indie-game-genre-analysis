@@ -33,3 +33,6 @@ Opportunity = (Revenue_Percentile * 0.4) + (Inverse_Competition_Percentile * 0.3
 - Revenue data aggregated from public SteamSpy estimates
 - Does not account for marketing budget differences
 - Seasonal genres (horror, holiday) may be undervalued by annual aggregation
+
+## 2026-04-27 11:42
+Noted that Platformer genre has highest game count but median revenue has declined 40% since 2019 — saturation is measurable in the data.
