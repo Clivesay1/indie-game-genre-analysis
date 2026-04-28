@@ -36,3 +36,6 @@ Opportunity = (Revenue_Percentile * 0.4) + (Inverse_Competition_Percentile * 0.3
 
 ## 2026-04-27 11:42
 Noted that Platformer genre has highest game count but median revenue has declined 40% since 2019 — saturation is measurable in the data.
+
+## Success Rate Finding — April 28, 2026
+Only 18% of indie games on Steam earn more than $25k lifetime. However, in the top 5 Opportunity Score genres, this rate rises to 34%. Genre selection is the single biggest lever for indie success.
