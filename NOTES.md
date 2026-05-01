@@ -39,3 +39,6 @@ Noted that Platformer genre has highest game count but median revenue has declin
 
 ## Success Rate Finding — April 28, 2026
 Only 18% of indie games on Steam earn more than $25k lifetime. However, in the top 5 Opportunity Score genres, this rate rises to 34%. Genre selection is the single biggest lever for indie success.
+
+## ROI Model Refinement — May 01, 2026
+Revised the ROI formula to account for marketing spend as a separate cost variable. Most indie dev cost estimates in the literature exclude marketing, which typically adds 30-50% to total project cost. Updated all budget tier calculations accordingly.
