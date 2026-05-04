@@ -42,3 +42,7 @@ Only 18% of indie games on Steam earn more than $25k lifetime. However, in the t
 
 ## ROI Model Refinement — May 01, 2026
 Revised the ROI formula to account for marketing spend as a separate cost variable. Most indie dev cost estimates in the literature exclude marketing, which typically adds 30-50% to total project cost. Updated all budget tier calculations accordingly.
+
+## May 04, 2026 — Budget Tier ROI Findings
+
+At the $10k budget tier, pixel art platformers and puzzle games show the best risk-adjusted returns — low asset cost, proven mechanics, clear audience. At $50k, roguelikes and metroidvanias dominate. At $200k+, the analysis shifts to market positioning — differentiation matters more than genre choice at this budget level.
