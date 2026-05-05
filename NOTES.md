@@ -46,3 +46,12 @@ Revised the ROI formula to account for marketing spend as a separate cost variab
 ## May 04, 2026 — Budget Tier ROI Findings
 
 At the $10k budget tier, pixel art platformers and puzzle games show the best risk-adjusted returns — low asset cost, proven mechanics, clear audience. At $50k, roguelikes and metroidvanias dominate. At $200k+, the analysis shifts to market positioning — differentiation matters more than genre choice at this budget level.
+
+## Wishlist Conversion Analysis — May 5, 2026
+Steam wishlist-to-purchase conversion rates by genre:
+- Horror: 18% conversion (highest — impulse buy category)
+- Puzzle: 14% conversion
+- RPG: 11% conversion
+- Simulation: 9% conversion (players research more before buying)
+- Survival: 8% conversion
+Wishlist count at launch is a stronger predictor of first-week revenue than review count.
