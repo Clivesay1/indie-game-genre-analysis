@@ -55,3 +55,10 @@ Steam wishlist-to-purchase conversion rates by genre:
 - Simulation: 9% conversion (players research more before buying)
 - Survival: 8% conversion
 Wishlist count at launch is a stronger predictor of first-week revenue than review count.
+
+
+---
+
+### May 06, 2026
+
+Added notes on genre hybridization premiums. Roguelike + deckbuilder combinations show 2.3x higher median revenue than pure roguelikes. Updated recommendations section.
