@@ -62,3 +62,7 @@ Wishlist count at launch is a stronger predictor of first-week revenue than revi
 ### May 06, 2026
 
 Added notes on genre hybridization premiums. Roguelike + deckbuilder combinations show 2.3x higher median revenue than pure roguelikes. Updated recommendations section.
+
+## Survival Horror ROI Update — May 13, 2026
+
+Survival horror shows strong ROI metrics for solo developers: median revenue $47k, estimated dev cost $18-25k for a 4-6 hour experience. The genre benefits from dedicated content creator coverage which amplifies organic reach. Adding survival horror as a Tier 2 recommendation.
