@@ -69,3 +69,6 @@ Survival horror shows strong ROI metrics for solo developers: median revenue $47
 
 ## Early Access Revenue Patterns — May 16, 2026
 Early Access titles in the Roguelike genre generate 38% of total lifetime revenue during EA period. Survival games generate only 22% during EA — players wait for 1.0 release. Genre affects optimal EA strategy: roguelikes benefit from long EA, survival games from short.
+
+## DLC Revenue Contribution — May 22, 2026
+Strategy games derive 35% of lifetime revenue from DLC. RPGs average 28% DLC contribution. Roguelikes rarely succeed with DLC — players prefer new games over expansions. Simulation games (city builders, farming sims) show highest DLC attachment rates (40%+).
