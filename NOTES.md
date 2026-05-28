@@ -72,3 +72,5 @@ Early Access titles in the Roguelike genre generate 38% of total lifetime revenu
 
 ## DLC Revenue Contribution — May 22, 2026
 Strategy games derive 35% of lifetime revenue from DLC. RPGs average 28% DLC contribution. Roguelikes rarely succeed with DLC — players prefer new games over expansions. Simulation games (city builders, farming sims) show highest DLC attachment rates (40%+).
+## Platform Exclusivity Analysis — May 28, 2026
+Epic Games Store exclusivity deals provide guaranteed minimum revenue but sacrifice Steam's discovery algorithm. For genres with strong community (RPG, Strategy), Steam's organic discovery is worth more long-term. For niche genres (Visual Novel, Puzzle), EGS guarantees can exceed expected Steam revenue. Modeling break-even point: EGS deal > Steam expected revenue if Steam_median < $50k.
