@@ -74,3 +74,6 @@ Early Access titles in the Roguelike genre generate 38% of total lifetime revenu
 Strategy games derive 35% of lifetime revenue from DLC. RPGs average 28% DLC contribution. Roguelikes rarely succeed with DLC — players prefer new games over expansions. Simulation games (city builders, farming sims) show highest DLC attachment rates (40%+).
 ## Platform Exclusivity Analysis — May 28, 2026
 Epic Games Store exclusivity deals provide guaranteed minimum revenue but sacrifice Steam's discovery algorithm. For genres with strong community (RPG, Strategy), Steam's organic discovery is worth more long-term. For niche genres (Visual Novel, Puzzle), EGS guarantees can exceed expected Steam revenue. Modeling break-even point: EGS deal > Steam expected revenue if Steam_median < $50k.
+
+## Tag Co-occurrence Revenue Analysis — May 31, 2026
+Analyzing which tag combinations produce the highest revenue outcomes. 'Roguelike' + 'Deckbuilding' games average $380k revenue (top combination). 'Survival' + 'Crafting' averages $290k. 'RPG' + 'Turn-Based' averages $210k. Single-tag games average $85k. The data supports a hybrid genre strategy: combining a primary genre with a complementary mechanic tag increases discoverability and revenue potential. Updating genre recommendations to include optimal tag combinations.
