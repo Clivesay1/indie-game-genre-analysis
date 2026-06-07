@@ -4,3 +4,9 @@ Ongoing notes and observations from the analysis.
 
 <!-- 2026-06-01 15:43 -->
 > Refine risk-adjusted return analysis notes.
+
+---
+
+## 2026-06-07 — Analysis Notes
+
+**Observation:** Roguelikes show the highest median revenue ($180k) among all genre tags, but also the highest variance. The top 10% of roguelikes earn 85% of total genre revenue. Success in this genre is winner-take-most, not evenly distributed.
