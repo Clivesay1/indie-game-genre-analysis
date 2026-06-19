@@ -77,3 +77,6 @@ Epic Games Store exclusivity deals provide guaranteed minimum revenue but sacrif
 
 ## Tag Co-occurrence Revenue Analysis — May 31, 2026
 Analyzing which tag combinations produce the highest revenue outcomes. 'Roguelike' + 'Deckbuilding' games average $380k revenue (top combination). 'Survival' + 'Crafting' averages $290k. 'RPG' + 'Turn-Based' averages $210k. Single-tag games average $85k. The data supports a hybrid genre strategy: combining a primary genre with a complementary mechanic tag increases discoverability and revenue potential. Updating genre recommendations to include optimal tag combinations.
+
+## Genre Saturation Trend Analysis — June 19, 2026
+Tracking new game releases per genre per quarter. Survival genre releases increased 180% from 2020 to 2024, compressing median revenue by 35%. Cozy/farming games increased 220% but median revenue held steady — audience demand scaled with supply. Saturation impact varies by genre community size and discoverability algorithm behavior.
