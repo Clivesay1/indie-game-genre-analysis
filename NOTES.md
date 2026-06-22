@@ -80,3 +80,7 @@ Analyzing which tag combinations produce the highest revenue outcomes. 'Roguelik
 
 ## Genre Saturation Trend Analysis — June 19, 2026
 Tracking new game releases per genre per quarter. Survival genre releases increased 180% from 2020 to 2024, compressing median revenue by 35%. Cozy/farming games increased 220% but median revenue held steady — audience demand scaled with supply. Saturation impact varies by genre community size and discoverability algorithm behavior.
+
+---
+## Early Access Strategy — June 22, 2026
+Roguelikes benefit disproportionately from Early Access compared to other genres. Player feedback during EA directly improves procedural generation quality — the genre's core loop is well-suited to iterative tuning. Median revenue for roguelikes that used EA: $340k vs $180k for direct launches. Updating the genre strategy recommendations to include EA as a key lever.
