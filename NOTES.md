@@ -84,3 +84,7 @@ Tracking new game releases per genre per quarter. Survival genre releases increa
 ---
 ## Early Access Strategy — June 22, 2026
 Roguelikes benefit disproportionately from Early Access compared to other genres. Player feedback during EA directly improves procedural generation quality — the genre's core loop is well-suited to iterative tuning. Median revenue for roguelikes that used EA: $340k vs $180k for direct launches. Updating the genre strategy recommendations to include EA as a key lever.
+
+## Review Score and Long-Tail Revenue — July 04, 2026
+
+Analyzed relationship between Steam review score and long-tail revenue (revenue earned 12+ months post-launch). Games with 'Very Positive' (80-94%) ratings earn 3.1x more in long-tail than 'Mixed' (40-69%) games. 'Overwhelmingly Positive' (95%+) games earn 7.2x more — the algorithm rewards them indefinitely. For indie devs, investing in launch quality and post-launch support to maintain review scores is the highest-ROI activity after initial development. Adding review_tier as a categorical feature.
