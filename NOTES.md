@@ -88,3 +88,8 @@ Roguelikes benefit disproportionately from Early Access compared to other genres
 ## Review Score and Long-Tail Revenue — July 04, 2026
 
 Analyzed relationship between Steam review score and long-tail revenue (revenue earned 12+ months post-launch). Games with 'Very Positive' (80-94%) ratings earn 3.1x more in long-tail than 'Mixed' (40-69%) games. 'Overwhelmingly Positive' (95%+) games earn 7.2x more — the algorithm rewards them indefinitely. For indie devs, investing in launch quality and post-launch support to maintain review scores is the highest-ROI activity after initial development. Adding review_tier as a categorical feature.
+
+
+### July 07, 2026 — Budget Tier Notes
+
+For $10k budget: target niche simulation genres with low competition. For $50k: roguelite or puzzle with strong hook. For $200k+: survival or open-world with multiplayer component for long-tail revenue potential.
