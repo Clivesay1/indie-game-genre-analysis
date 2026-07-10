@@ -13,3 +13,6 @@ Ongoing notes and observations from the analysis.
 
 ## 2026-06-13
 **Refinement:** Revised Opportunity Score formula — added market saturation penalty for genres with >500 new releases/year. Saturated genres require 3x marketing spend to achieve equivalent visibility, which erodes ROI significantly.
+
+## 2026-07-10
+- Document risk-adjusted return recalibration for 2024 data.
