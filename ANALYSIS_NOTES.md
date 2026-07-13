@@ -16,3 +16,9 @@ Ongoing notes and observations from the analysis.
 
 ## 2026-07-10
 - Document risk-adjusted return recalibration for 2024 data.
+
+---
+
+## Publisher vs. Self-Published
+
+Games with publisher backing show 3.2x higher average revenue but the publisher typically takes 30-50% of net revenue. For genres with high median revenue (>$100k), publisher deals make sense. For niche genres, self-publishing often yields better net returns.
