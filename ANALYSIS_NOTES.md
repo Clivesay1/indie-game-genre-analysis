@@ -25,3 +25,6 @@ Games with publisher backing show 3.2x higher average revenue but the publisher 
 
 ## July 19, 2026
 **Market update:** Steam Next Fest data analyzed — survival games showed 2.1x higher wishlist-to-purchase conversion than the platform average. High wishlist counts during demos correlate strongly with launch week revenue. Adding demo_conversion_proxy as a genre-level feature.
+
+## July 24, 2026
+**Market update:** Steam Next Fest data analyzed — survival games showed 2.1x higher wishlist-to-purchase conversion than the platform average. High wishlist counts during demos correlate strongly with launch week revenue. Adding demo_conversion_proxy as a genre-level feature.
