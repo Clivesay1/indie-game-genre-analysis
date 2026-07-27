@@ -93,3 +93,8 @@ Analyzed relationship between Steam review score and long-tail revenue (revenue 
 ### July 07, 2026 — Budget Tier Notes
 
 For $10k budget: target niche simulation genres with low competition. For $50k: roguelite or puzzle with strong hook. For $200k+: survival or open-world with multiplayer component for long-tail revenue potential.
+
+
+---
+## Platform Comparison — July 26, 2026
+Steam vs. itch.io vs. Epic Games Store revenue split for indie titles. Steam dominates at ~75% of PC indie revenue despite 30% cut. itch.io better for experimental/niche titles — lower discovery barrier, community-driven. Epic exclusivity deals offer guaranteed minimums but sacrifice long-tail Steam revenue. Analysis focuses on Steam as primary market.
