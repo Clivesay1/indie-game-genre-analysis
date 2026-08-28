@@ -50,7 +50,9 @@ indie-game-genre-analysis/
 ```bash
 git clone https://github.com/Clivesay1/indie-game-genre-analysis
 cd indie-game-genre-analysis
-pip install pandas matplotlib numpy
+python -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
 jupyter notebook notebooks/indie_game_genre_analysis.ipynb
 ```
 
@@ -64,10 +66,10 @@ jupyter notebook notebooks/indie_game_genre_analysis.ipynb
 | $500K+ (Funded) | Co-op | $2,700 | $450K | High ceiling, viral potential |
 
 ## Data Source
-Revenue data from [games-stats.com](https://games-stats.com/steam/tags/) — aggregated from Steam API and SteamSpy across 100,000+ games.
+Revenue data originates from [games-stats.com](https://games-stats.com/steam/tags/), which aggregates Steam API and SteamSpy estimates. The committed `data/steam_genres.csv` file is the analysis snapshot used for this version of the project and is documented in [`data/README.md`](data/README.md).
+
+## Reproducibility
+Run the consolidated notebook from the repository root after installing `requirements.txt`. The analysis reads the committed data snapshot and writes derived tables to `output/`. Because third-party access and estimates can change, the committed CSV is the reproducible input for the published findings.
 
 ---
 *Author: Chris Livesay | [LinkedIn](https://www.linkedin.com/in/christopher-livesay)*
-<!-- revision 3366 -->
-<!-- update 8670 -->
-
